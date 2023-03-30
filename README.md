@@ -1,8 +1,9 @@
+
 <p align=”center”>
-
 <img src="https://user-images.githubusercontent.com/37718687/228978476-6f89e5bc-127e-4b39-938b-7b2cfc97d5f4.png" alt="my banner"> </p>
-
-
+<Center><h5>Hi there, I’m <a href="https://kamrac.github.io/" target="_blank" rel="noreferrer">Kamra</a>👋🏼</h5>
+<h3> I'm a Full Stack Web Developer, Blogger, and Designer </h3></center>
+<h5> Language & Tools: </h5>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
