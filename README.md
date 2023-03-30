@@ -1,34 +1,55 @@
 
 <p align=”center”>
 <img src="https://user-images.githubusercontent.com/37718687/228978476-6f89e5bc-127e-4b39-938b-7b2cfc97d5f4.png" alt="my banner"> </p>
-<center><h5>Hi there, I’m <a href="https://kamrac.github.io/" target="_blank" rel="noreferrer">Kamra</a>👋🏼</h5></center>
-<center><h3> I'm a Full Stack Web Developer, Blogger, and Designer </h3></center>
-  <center><h5> Language & Tools: </h5></center>
+<h5 align="center">Hi there, I’m <a href="https://kamrac.github.io/" target="_blank" rel="noreferrer">Kamra</a>👋🏼</h5>
+<h3 align="center"> I'm a Full Stack Web Developer, Blogger, and Designer </h3>
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Meal Picker App
+- Finishing up the blackinportugal.com website
+
+### 🤝🏽 Connect with me:
+
+<a href="https://www.linkedin.com/in/kamraclemons/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> <br>
+
+<!-- ## 🌱 I'm currently learning
+
+- 📱 React Native
+- Firebase
+- React Context API
+- Styled Components   -->
 
 
+## 💼 Technical Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🎨 Design Tools
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 🤓 Learning
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+## 📚 Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 💻 IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-GITHUB Stats <br>
+## GithubStats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrac&count_private=true&theme=synthwave&show_icons=true&langs_count)
 
-
-
-
-### Hi there 👋
 
 <!--
 **kamrac/kamrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
