@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="200" height="200" src="https://user-images.githubusercontent.com/37718687/228978476-6f89e5bc-127e-4b39-938b-7b2cfc97d5f4.png" alt="my banner"> </p>
+<img src="https://user-images.githubusercontent.com/37718687/228978476-6f89e5bc-127e-4b39-938b-7b2cfc97d5f4.png" alt="my banner"> </p>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 GITHUB Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrac&count_private=true&theme=synthwave&show_icons=true&langs_count)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrac&count_private=true&theme=synthwave&show_icons=true&langs_count)](https://github.com/kamrac)
 ### Hi there 👋
 
 <!--
